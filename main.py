@@ -1,7 +1,7 @@
 #
 import os
 import openai
-from dotenv import load_dotenv
+from dotenv import load_dotenv #If dotenv not dounf, do pip install python-dotenv
 
 # openai.organization = "YOUR_ORG_ID"
 
